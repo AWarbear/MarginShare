@@ -1,0 +1,74 @@
+.form-control, .btn {
+    margin-top:20px;
+}
+
+.form-group{
+    text-align:center;
+}
+
+.nav-pills {
+    position:fixed;
+    margin-left:-45pt;
+    width:45pt;
+    height: 100%;
+    text-align:left;
+    background-color:rgba(0,0,0,0.15);
+}
+
+.nav-pills > li {
+    height:45pt;
+    margin-bottom:1pt;
+}
+
+.list-group-item{
+    margin-top:15px;
+}
+
+.list-group-item > .label{
+    margin-right:5pt;
+}
+
+
+.chatbox{
+    overflow:auto;
+    height:250px;
+}
+
+.update-area{
+    overflow:auto;
+    max-height:80%;
+}
+
+.marginpane{
+    overflow:auto;
+}
+
+.glyphicon{
+    text-align:center;
+    height:25pt;
+    font-size:21pt;
+    margin-top:1pt;
+}
+
+
+.col-xs-10 {
+    padding:0px;
+    margin-top: 2;
+}
+
+.nav > li > a{
+ display:inline-block;
+ height: 45pt;
+ width:100%;
+}
+
+body{
+    padding-left:45pt;
+}
+/*
+@media screen and (min-width: 768px){
+    .nav-pills{
+        width:100px;
+    }
+}
+*/
